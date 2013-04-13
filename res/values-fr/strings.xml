@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quick Discount Calc</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="menu_about">Aide</string>
+    <string name="menu_rate">Rate</string>
+    <string name="desc">Discount Calculator avec bouton de raccourci personnalisable et facile à utiliser curseur de réglage de réduction</string>
+    <string name="Discount">Remise</string>
+    <string name="OriginalPrice">Prix d\'origine</string>
+    <string name="NewPrice">Nouveau Prix</string>
+<string name="Tax">Taxe</string>
+	<string name="yousave">Vous économisez</string>
+    <string name="TaxSettings">Taxe (Facultatif)</string>
+    
+
+</resources>
