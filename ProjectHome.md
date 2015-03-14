@@ -1,0 +1,1 @@
+Discount Calculator with customizable shortcut button and intuitive slider for easy discount adjustment.
